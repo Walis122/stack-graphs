@@ -1,35 +1,10 @@
-# Stack graphs
-
-The crates in this repository provide a Rust implementation of _stack graphs_,
-which allow you to define the name resolution rules for an arbitrary programming
-language in a way that is efficient, incremental, and does not need to tap into
-existing build or program analysis tools.
-
-## How to contribute
-
-We welcome your contributions!  Please see our [contribution
-guidelines](CONTRIBUTING.md) and our [code of conduct](CODE_OF_CONDUCT.md) for
-details on how to participate in our community.
-
-Unless you explicitly state otherwise, any contribution intentionally submitted
-for inclusion in the work by you, as defined in the Apache-2.0 license, shall be
-dual licensed as described below, without any additional terms or conditions.
-
-## Credits
-
-Stack graphs are heavily based on the [_scope graphs_][scope graphs] framework
-from Eelco Visser's group at TU Delft.
-
-[scope graphs]: https://pl.ewi.tudelft.nl/research/projects/scope-graphs/
-
-## License
-
-Licensed under either of
-
-  - [Apache License, Version 2.0][apache] ([LICENSE-APACHE](LICENSE-APACHE))
-  - [MIT license][mit] ([LICENSE-MIT](LICENSE-MIT))
-
-at your option.
-
-[apache]: http://www.apache.org/licenses/LICENSE-2.0
-[mit]: http://opensource.org/licenses/MIT
+��/w姐劥礙V1€�.-.鮅"]i8N;=�
+宻�}�&`w璧a�,C+	俕瞝�訮\鈖"瞹?趑鐝2{q,�6像噅Q聎vP-艓M囷r_桼[朾M3�"蠡'g�#ホzl瞿甒8|k4€鈝矗[>菞KPE�=檙適J[埞�谔闪隫郁sm溬�*Q!昼�0p5$婁�<	�/观�%鹀	$5顼K5BA嫕A暵( M焔�0A#弒ok7e熥陇姪�_忘�!〓凋�
+Q�!▌\R荼rR
+晳�鶓5 净3缼蛍芦%�辪柨捙PX誢賐舍も?�擗X$�6麓悤薐÷沙;絷&7X,�镵w鷇e�(萏�柮薫�l�&#ホ	>m}寅簻I疝gpn飇�.崢�
+ROF噊
+伣懡u�!k莅餺j筌�:��騴榮晦(*勶][碳�2栅唴�&捦<R�叡簃r暹R�KS
+{&�緀�+0�>_t鷱[縨�瘆映鎬�5嘖�2靝鱔bG�0巁鰼Rテ�>秄妹�(?敖闖幍面�1�"z�5S#盧a關�M_挟讋$L�(
+M硌L扽侇w叶a咭J�$V�e蛳榾戹z鶪恀e{Q諤�p?冁郌澌哂鼒[亮�
+r莔卜厣�*?�	k�禋<怦	甞E纮E~蒔鴊(釐r矍愴椤秔[Q鶩�焫Z攠竐怢飽喓笝�:&�?iE憂&xS	}嵞7藔鳎L缷恮鲂!x�
+j疓xZY^|衳0{]�?働?稨Qz堼-�&*畔蓓�?竬v括愷喵駦Q挝濴玸蕨a6忄0�
